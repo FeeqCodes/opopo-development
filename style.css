@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+h1 {
+  color: pink ;
+  
+}
+
+/* If we are using Id */
+#first-div {
+  margin-bottom: 100px;
+}
+
+/* If we are using classes */
+.first-div
